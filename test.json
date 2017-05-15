@@ -1,0 +1,2062 @@
+[
+  {
+    "Predicate": "located in the administrative territorial entity",
+    "Object": "Ко (Еро)",
+    "Subject": "Еро",
+    "ArticleId": 630470,
+    "ObjectPosition": {
+      "Anchor": "Ко",
+      "Start": 352,
+      "End": 367
+    },
+    "SubjectPosition": {
+      "Anchor": "Еро",
+      "Start": 461,
+      "End": 468
+    },
+    "Start": 351,
+    "End": 468,
+    "Text": "[[Ко (Еро)|Ко]] ({{lang-fr|Caux}}) - муніципалітет у Франції, у регіоні [[Лангедок-Руссільйон]], департамент [[Еро]]",
+    "Distance": 117
+  },
+  {
+    "Predicate": "child",
+    "Object": "Юба I",
+    "Subject": "Юба II",
+    "ArticleId": 646991,
+    "ObjectPosition": {
+      "Anchor": "Юба I",
+      "Start": 3028,
+      "End": 3037
+    },
+    "SubjectPosition": {
+      "Anchor": "Юба II",
+      "Start": 3091,
+      "End": 3101
+    },
+    "Start": 3027,
+    "End": 3115,
+    "Text": "[[Юба I]](60—46 до н.е.)\n* римська провінція (46-30 до н.е.)\n* [[Юба II]](30—23 до н.е.",
+    "Distance": 88
+  },
+  {
+    "Predicate": "headquarters location",
+    "Object": "Rockstar Japan",
+    "Subject": "Токіо",
+    "ArticleId": 1623607,
+    "ObjectPosition": {
+      "Anchor": "Rockstar Japan",
+      "Start": 3855,
+      "End": 3873
+    },
+    "SubjectPosition": {
+      "Anchor": "Токіо",
+      "Start": 3896,
+      "End": 3905
+    },
+    "Start": 3853,
+    "End": 3927,
+    "Text": "* [[Rockstar Japan]] ({{Прапорець|Японія}} [[Токіо]], [[Японія]], [[2005]]",
+    "Distance": 74
+  },
+  {
+    "Predicate": "place of death",
+    "Object": "Ніколя Фламель",
+    "Subject": "Париж",
+    "ArticleId": 1803282,
+    "ObjectPosition": {
+      "Anchor": "Ніколя Фламеля",
+      "Start": 1493,
+      "End": 1526
+    },
+    "SubjectPosition": {
+      "Anchor": "Париж",
+      "Start": 1593,
+      "End": 1602
+    },
+    "Start": 1413,
+    "End": 1631,
+    "Text": "У центрі сюжету - група молодих дослідників, які намагаються розгадати таємницю [[Ніколя Фламель|Ніколя Фламеля]] та відшукати [[філософський камінь]], який за сюжетом перебуває у [[Париж]]і, під могилою самого Фламеля",
+    "Distance": 218
+  },
+  {
+    "Predicate": "employer",
+    "Object": "Рендолф Джеймс Брезник",
+    "Subject": "Національне управління з аеронавтики і дослідження космічного простору",
+    "ArticleId": 2083703,
+    "ObjectPosition": {
+      "Anchor": "Рендолф Брезник",
+      "Start": 2876,
+      "End": 2918
+    },
+    "SubjectPosition": {
+      "Anchor": "(НАСА)",
+      "Start": 2794,
+      "End": 2875
+    },
+    "Start": 2775,
+    "End": 2937,
+    "Text": "{{Прапорець|USA}} [[Національне управління з аеронавтики і дослідження космічного простору|(НАСА)]] [[Рендолф Джеймс Брезник|Рендолф Брезник]]&nbsp;— бортінженер",
+    "Distance": 162
+  },
+  {
+    "Predicate": "sister city",
+    "Object": "Лодзь",
+    "Subject": "Хемніц",
+    "ArticleId": 417002,
+    "ObjectPosition": {
+      "Anchor": "Лодзь",
+      "Start": 7765,
+      "End": 7774
+    },
+    "SubjectPosition": {
+      "Anchor": "Хемніц",
+      "Start": 7708,
+      "End": 7718
+    },
+    "Start": 7698,
+    "End": 7774,
+    "Text": "{{GER}}: [[Хемніц]], [[Ессен]]\n* {{NOR}}: [[Тронхейм]]\n* {{POL}}: [[Лодзь]]",
+    "Distance": 76
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Прато",
+    "Subject": "Ваяно",
+    "ArticleId": 439164,
+    "ObjectPosition": {
+      "Anchor": "Прато",
+      "Start": 2070,
+      "End": 2079
+    },
+    "SubjectPosition": {
+      "Anchor": "Ваяно",
+      "Start": 2141,
+      "End": 2150
+    },
+    "Start": 2069,
+    "End": 2150,
+    "Text": "[[Прато]]\n* [[Сан-П'єро-а-Сьєве]]\n* [[Сесто-Фьорентіно]]\n* [[Валья]]\n* [[Ваяно]]",
+    "Distance": 81
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Норчія",
+    "Subject": "Пречі",
+    "ArticleId": 456473,
+    "ObjectPosition": {
+      "Anchor": "Норчія",
+      "Start": 2203,
+      "End": 2213
+    },
+    "SubjectPosition": {
+      "Anchor": "Пречі",
+      "Start": 2216,
+      "End": 2225
+    },
+    "Start": 2202,
+    "End": 2225,
+    "Text": "[[Норчія]]\n* [[Пречі]]",
+    "Distance": 23
+  },
+  {
+    "Predicate": "located in the administrative territorial entity",
+    "Object": "Туїхоа",
+    "Subject": "Фуєн",
+    "ArticleId": 2137151,
+    "ObjectPosition": {
+      "Anchor": "Туїхоа",
+      "Start": 9574,
+      "End": 9584
+    },
+    "SubjectPosition": {
+      "Anchor": "Фуєн",
+      "Start": 9484,
+      "End": 9492
+    },
+    "Start": 9484,
+    "End": 9584,
+    "Text": "[[Фуєн]]\n|Phú Yên\n|[[Південний Приморський Центр (В'єтнам)|Південний Приморський Центр]]\n|[[Туїхоа]]",
+    "Distance": 100
+  },
+  {
+    "Predicate": "located in the administrative territorial entity",
+    "Object": "Піорія (Іллінойс)",
+    "Subject": "Піорія (округ, Іллінойс)",
+    "ArticleId": 6329,
+    "ObjectPosition": {
+      "Anchor": "Піорія",
+      "Start": 65390,
+      "End": 65418
+    },
+    "SubjectPosition": {
+      "Anchor": "Піорія",
+      "Start": 65436,
+      "End": 65471
+    },
+    "Start": 65389,
+    "End": 65481,
+    "Text": "[[Піорія (Іллінойс)|Піорія]] || ''Peoria'' || [[Піорія (округ, Іллінойс)|Піорія]] || 115 00",
+    "Distance": 92
+  },
+  {
+    "Predicate": "country",
+    "Object": "Лае (місто)",
+    "Subject": "Папуа Нова Гвінея",
+    "ArticleId": 1721773,
+    "ObjectPosition": {
+      "Anchor": "Лае",
+      "Start": 5046,
+      "End": 5065
+    },
+    "SubjectPosition": {
+      "Anchor": "Папуа Нова Гвінея",
+      "Start": 5023,
+      "End": 5044
+    },
+    "Start": 5022,
+    "End": 5065,
+    "Text": "[[Папуа Нова Гвінея]]; [[Лае (місто)|Лае]]",
+    "Distance": 43
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Реймс",
+    "Subject": "Вітрі-ле-Реймс",
+    "ArticleId": 606186,
+    "ObjectPosition": {
+      "Anchor": "Реймс",
+      "Start": 4082,
+      "End": 4091
+    },
+    "SubjectPosition": {
+      "Anchor": "Вітрі-ле-Реймс",
+      "Start": 4053,
+      "End": 4071
+    },
+    "Start": 4047,
+    "End": 4091,
+    "Text": "|сх = [[Вітрі-ле-Реймс]]\n |пд_зх = [[Реймс]]",
+    "Distance": 44
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Вентура",
+    "Subject": "Окснард",
+    "ArticleId": 51176,
+    "ObjectPosition": {
+      "Anchor": "Вентура",
+      "Start": 1582,
+      "End": 1593
+    },
+    "SubjectPosition": {
+      "Anchor": "Окснард",
+      "Start": 1563,
+      "End": 1574
+    },
+    "Start": 1559,
+    "End": 1615,
+    "Text": "13||[[Окснард]]&nbsp;— [[Вентура]]||753,2||1 590||Вентур",
+    "Distance": 56
+  },
+  {
+    "Predicate": "located in the administrative territorial entity",
+    "Object": "PBCom Tower",
+    "Subject": "Макаті",
+    "ArticleId": 431845,
+    "ObjectPosition": {
+      "Anchor": "Вежа PBCom",
+      "Start": 1374,
+      "End": 1400
+    },
+    "SubjectPosition": {
+      "Anchor": "Макаті",
+      "Start": 1403,
+      "End": 1413
+    },
+    "Start": 1373,
+    "End": 1422,
+    "Text": "[[PBCom Tower|Вежа PBCom]] в [[Макаті]], [[2000]",
+    "Distance": 49
+  },
+  {
+    "Predicate": "child",
+    "Object": "Клеопатра III",
+    "Subject": "Птолемей IX",
+    "ArticleId": 3694,
+    "ObjectPosition": {
+      "Anchor": "Клеопатра III",
+      "Start": 847,
+      "End": 864
+    },
+    "SubjectPosition": {
+      "Anchor": "Птолемеєм IX",
+      "Start": 1002,
+      "End": 1030
+    },
+    "Start": 846,
+    "End": 1069,
+    "Text": "[[Клеопатра III]]&nbsp;— [[цариця]] [[Елліністичний Єгипет|Єгипту]] у [[142 до н. е.]]—101 до н.&nbsp;е. (разом з [[Птолемей VIII Фіскон|Птолемеєм VIII]], [[Птолемей IX|Птолемеєм IX]], [[Птолемей X Александр|Птолемеєм X]])",
+    "Distance": 223
+  },
+  {
+    "Predicate": "child",
+    "Object": "Клеопатра III",
+    "Subject": "Птолемей IX",
+    "ArticleId": 3695,
+    "ObjectPosition": {
+      "Anchor": "Клеопатра III",
+      "Start": 763,
+      "End": 780
+    },
+    "SubjectPosition": {
+      "Anchor": "Птолемея IX",
+      "Start": 798,
+      "End": 825
+    },
+    "Start": 719,
+    "End": 846,
+    "Text": "[[Цариця]] [[Елліністичний Єгипет|Єгипту]] [[Клеопатра III]] придушила спробу [[Птолемей IX|Птолемея IX]] повернути собі владу",
+    "Distance": 127
+  },
+  {
+    "Predicate": "country of citizenship",
+    "Object": "Онищенко Сергій Іванович",
+    "Subject": "Україна",
+    "ArticleId": 16267,
+    "ObjectPosition": {
+      "Anchor": "Онищенко Сергій Іванович",
+      "Start": 8562,
+      "End": 8590
+    },
+    "SubjectPosition": {
+      "Anchor": "український",
+      "Start": 8517,
+      "End": 8540
+    },
+    "Start": 8467,
+    "End": 8622,
+    "Text": "[[Альтман Семен Йосипович|Семен Альтман]]&nbsp;— [[Україна|український]] футбольний тренер.\n* [[Онищенко Сергій Іванович]] (1954)&nbsp;— генерал-полковник",
+    "Distance": 155
+  },
+  {
+    "Predicate": "country",
+    "Object": "Токай (Ібаракі)",
+    "Subject": "Японія",
+    "ArticleId": 43318,
+    "ObjectPosition": {
+      "Anchor": "Токай",
+      "Start": 139,
+      "End": 164
+    },
+    "SubjectPosition": {
+      "Anchor": "Японії",
+      "Start": 407,
+      "End": 424
+    },
+    "Start": 135,
+    "End": 469,
+    "Text": "'''[[Токай (Ібаракі)|Токай]]''' — [[села Японії|село в Японії]], у [[префектура Ібаракі|префектурі Ібаракі]].\n* '''[[Токай (Угорщина)|Токай]]''' — [[Міста Угорщини|місто в Угорщині]].\n\n== Інше ==\n* '''[[Токайдо]]''' \n:* регіон стародавньої Японії.\n:* стародавня дорога в [[Японія|Японії]], що сполучала [[Кіото]] з сучасним [[Токіо]]",
+    "Distance": 334
+  },
+  {
+    "Predicate": "located in the administrative territorial entity",
+    "Object": "Ельхас",
+    "Subject": "Касерес (провінція)",
+    "ArticleId": 74023,
+    "ObjectPosition": {
+      "Anchor": "Ельхас",
+      "Start": 2999,
+      "End": 3009
+    },
+    "SubjectPosition": {
+      "Anchor": "Касереса",
+      "Start": 2918,
+      "End": 2950
+    },
+    "Start": 2878,
+    "End": 3312,
+    "Text": "трьох [[Муніципії Іспанії|муніципіях]] [[Касерес (провінція)|Касереса]] в [[долині Халама]] ([[Вальверде дель Фресно]], [[Ельхас]] і [[Сан-Мартін-де-Тревехо]]) розмовляють мовою [[Фала (мова)|фалі]] ({{lang-es|Fala de Xálima}}), з приводу якої серед учених немає згоди в тому, чи є вона самостійною мовою, разом з галісійською і португальською, або ж є давньопортугальською з [[Леонська мова|леонським]] і іспанським [[суперстрат]]ом",
+    "Distance": 434
+  },
+  {
+    "Predicate": "country",
+    "Object": "Балтійська протока",
+    "Subject": "Росія",
+    "ArticleId": 196122,
+    "ObjectPosition": {
+      "Anchor": "Балтійською протокою",
+      "Start": 1316,
+      "End": 1359
+    },
+    "SubjectPosition": {
+      "Anchor": "Росії",
+      "Start": 1617,
+      "End": 1632
+    },
+    "Start": 1090,
+    "End": 1661,
+    "Text": "На північному заході [[Гельська коса]] відокремлює від Гданської затоки [[Пуцька затока|Пуцьку затоку]], а на південному сході [[Віслинська коса]]&nbsp;— [[Віслинська затока|Віслинську затоку]], яка з'єднана з відкритим морем [[Балтійська протока|Балтійською протокою]].\n\n* Довжина 74 км\n* Ширина у входа 107&nbsp;км,\n* Глибина до 115&nbsp;м.\n* Солоність менше 8&nbsp;‰.\n\nБухта омиває береги [[Поморське воєводство|Поморського воєводства]] (мис [[Розеве]], Гельська коса) і [[Калінінградська область|Калінінградської області]] [[Росія|Росії]] ([[Земландський півострів]])",
+    "Distance": 571
+  },
+  {
+    "Predicate": "capital",
+    "Object": "Нігаматовська сільська рада",
+    "Subject": "Нігаматово",
+    "ArticleId": 424232,
+    "ObjectPosition": {
+      "Anchor": "Нігаматовська сільська рада",
+      "Start": 7563,
+      "End": 7594
+    },
+    "SubjectPosition": {
+      "Anchor": "Нігаматово",
+      "Start": 7642,
+      "End": 7656
+    },
+    "Start": 7562,
+    "End": 7656,
+    "Text": "[[Нігаматовська сільська рада]]\n| align=\"right\"| 228,7\n| align=\"right\"| 2867\n| [[Нігаматово]]",
+    "Distance": 94
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Аккуарика-дель-Капо",
+    "Subject": "Тауризано",
+    "ArticleId": 449031,
+    "ObjectPosition": {
+      "Anchor": "Аккуарика-дель-Капо",
+      "Start": 2023,
+      "End": 2046
+    },
+    "SubjectPosition": {
+      "Anchor": "Тауризано",
+      "Start": 2134,
+      "End": 2147
+    },
+    "Start": 2022,
+    "End": 2147,
+    "Text": "[[Аккуарика-дель-Капо]]\n* [[Казарано]]\n* [[Міджано]]\n* [[Монтезано-Салентіно]]\n* [[Спеккія]]\n* [[Суперсано]]\n* [[Тауризано]]",
+    "Distance": 125
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Аккуарика-дель-Капо",
+    "Subject": "Тауризано",
+    "ArticleId": 449628,
+    "ObjectPosition": {
+      "Anchor": "Аккуарика-дель-Капо",
+      "Start": 2045,
+      "End": 2068
+    },
+    "SubjectPosition": {
+      "Anchor": "Тауризано",
+      "Start": 2171,
+      "End": 2184
+    },
+    "Start": 2044,
+    "End": 2184,
+    "Text": "[[Аккуарика-дель-Капо]]\n* [[Аллісте]]\n* [[Казарано]]\n* [[Меліссано]]\n* [[Презічче]]\n* [[Ракале]]\n* [[Руффано]]\n* [[Сальве]]\n* [[Тауризано]]",
+    "Distance": 140
+  },
+  {
+    "Predicate": "capital",
+    "Object": "Хелуан (губернаторство)",
+    "Subject": "Хелуан",
+    "ArticleId": 583012,
+    "ObjectPosition": {
+      "Anchor": "Хелуан",
+      "Start": 4173,
+      "End": 4207
+    },
+    "SubjectPosition": {
+      "Anchor": "Хелуан",
+      "Start": 4224,
+      "End": 4234
+    },
+    "Start": 4172,
+    "End": 4242,
+    "Text": "[[Хелуан (губернаторство)|Хелуан]]<br />(Хулуан)\n| [[Хелуан]] (Хулуан",
+    "Distance": 70
+  },
+  {
+    "Predicate": "located in the administrative territorial entity",
+    "Object": "Карнунт",
+    "Subject": "Нижня Австрія",
+    "ArticleId": 632569,
+    "ObjectPosition": {
+      "Anchor": "Карнунт",
+      "Start": 1778,
+      "End": 1789
+    },
+    "SubjectPosition": {
+      "Anchor": "Нижній Австрії",
+      "Start": 1673,
+      "End": 1705
+    },
+    "Start": 1629,
+    "End": 1817,
+    "Text": "ередня течія [[Дунай|Дунаю]] в сьогодніщній [[Нижня Австрія|Нижній Австрії]] і південно-західній [[Словаччина|Словаччині]]:\n* [[Мельк]], [[Відень]], [[Карнунт]], [[Хайнбург-на-Дунаї]] тощо",
+    "Distance": 188
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Орадур-сюр-Глан",
+    "Subject": "Сьє (Верхня В'єнна)",
+    "ArticleId": 633712,
+    "ObjectPosition": {
+      "Anchor": "Орадур-сюр-Глан",
+      "Start": 4149,
+      "End": 4168
+    },
+    "SubjectPosition": {
+      "Anchor": "Сьє",
+      "Start": 4077,
+      "End": 4104
+    },
+    "Start": 4068,
+    "End": 4168,
+    "Text": "|пн_сх = [[Сьє (Верхня В'єнна)|Сьє]]\n |зх = [[Бригей]]<br />([[Шаранта]])\n |сх = [[Орадур-сюр-Глан]]",
+    "Distance": 100
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Жуміак-ле-Гран",
+    "Subject": "Ладіньяк-ле-Лон",
+    "ArticleId": 633788,
+    "ObjectPosition": {
+      "Anchor": "Жуміак-ле-Гран",
+      "Start": 3880,
+      "End": 3898
+    },
+    "SubjectPosition": {
+      "Anchor": "Ладіньяк-ле-Лон",
+      "Start": 3823,
+      "End": 3842
+    },
+    "Start": 3814,
+    "End": 3898,
+    "Text": "|пн    = [[Ладіньяк-ле-Лон]]\n |пн_сх = \n |зх = \n |сх = \n |пд_зх = [[Жуміак-ле-Гран]]",
+    "Distance": 84
+  },
+  {
+    "Predicate": "country",
+    "Object": "Нант (Аверон)",
+    "Subject": "Франція",
+    "ArticleId": 751843,
+    "ObjectPosition": {
+      "Anchor": "Нант",
+      "Start": 210,
+      "End": 232
+    },
+    "SubjectPosition": {
+      "Anchor": "Франції",
+      "Start": 100,
+      "End": 119
+    },
+    "Start": 16,
+    "End": 336,
+    "Text": "[[Нант]] ({{lang-fr|Nantes}})&nbsp;— місто та [[Комуна (Франція)|муніципалітет]] у [[Франція|Франції]], адміністративний центр регіону [[Пеї-де-ла-Луар]] та департаменту [[Атлантична Луара]]\n* [[Нант (Аверон)|Нант]] ({{lang-fr|Nant}})&nbsp;— муніципалітет у Франції, у регіоні [[Південь-Піренеї]], департамент [[Аверон]",
+    "Distance": 320
+  },
+  {
+    "Predicate": "located in the administrative territorial entity",
+    "Object": "Булгак (Ришканський район)",
+    "Subject": "Ришканський район",
+    "ArticleId": 1213321,
+    "ObjectPosition": {
+      "Anchor": "Булгак",
+      "Start": 1380,
+      "End": 1417
+    },
+    "SubjectPosition": {
+      "Anchor": "Ришканському районі",
+      "Start": 1240,
+      "End": 1281
+    },
+    "Start": 1195,
+    "End": 1432,
+    "Text": "''Шумна''' ({{lang-mo|Șumna}})&nbsp;— село в [[Ришканський район|Ришканському районі]] [[Молдова|Молдови]]. Адміністративний центр однойменної комуни, до складу якої також входять села [[Булгак (Ришканський район)|Булгак]] та [[Чеперія]]",
+    "Distance": 237
+  },
+  {
+    "Predicate": "located in the administrative territorial entity",
+    "Object": "Булгак (Ришканський район)",
+    "Subject": "Ришканський район",
+    "ArticleId": 1218179,
+    "ObjectPosition": {
+      "Anchor": "Булгак",
+      "Start": 658,
+      "End": 695
+    },
+    "SubjectPosition": {
+      "Anchor": "Ришканський район",
+      "Start": 724,
+      "End": 745
+    },
+    "Start": 657,
+    "End": 762,
+    "Text": "[[Булгак (Ришканський район)|Булгак]] ({{lang-ro|Bulhac}})&nbsp;— [[Ришканський район]], комуна [[Шумна]",
+    "Distance": 105
+  },
+  {
+    "Predicate": "located in the administrative territorial entity",
+    "Object": "Вулиця Благодатна",
+    "Subject": "Київська область",
+    "ArticleId": 1305603,
+    "ObjectPosition": {
+      "Anchor": "Благодатною",
+      "Start": 493,
+      "End": 526
+    },
+    "SubjectPosition": {
+      "Anchor": "Київської області",
+      "Start": 74,
+      "End": 112
+    },
+    "Start": 0,
+    "End": 565,
+    "Text": "У цій статті зібрана інформація про місцевості міста [[Бровари|Броварів]] [[Київська область|Київської області]].\n\n== Історичні місцевості ==\n{{Див. також|Історія Броварів}}\nЗа даними краєзнавця Василя Сердюка, у Броварах є такі історичні місцевості.<ref>[http://www.livoberezhna.org/litopys-kraiu/1990-ti-roky?id=4111 1-10 номер 1992 рік]. [[Нове життя (газета, Бровари)|Нове життя]]: №&nbsp;5 (8248), стор. 4, 15.01.1992</ref>\n* ''Летня земля''&nbsp;— територія, охоплена сучасними вулицями [[Вулиця Благодатна|Благодатною]], Петропавлівською та Зазимським шляхом",
+    "Distance": 565
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Марк (комуна)",
+    "Subject": "Свенюнга (комуна)",
+    "ArticleId": 1482989,
+    "ObjectPosition": {
+      "Anchor": "Марк",
+      "Start": 44474,
+      "End": 44496
+    },
+    "SubjectPosition": {
+      "Anchor": "Свенюнга",
+      "Start": 44750,
+      "End": 44780
+    },
+    "Start": 44435,
+    "End": 45000,
+    "Text": "align=\"left\" | 1463 || align=\"left\" | [[Марк (комуна)|Марк]] || align=\"left\" | [[Вестра-Йоталанд (лен)|Вестра Йоталанд]] || [[Файл:Mark Municipality in Västra Götaland County.png|46px]] || [[Файл:Mark vapen.svg|45px]] || {{nts|33807}} || {{nts|1017.78}} || {{nts|36.21}}\n|-\n| align=\"left\" | 1465 || align=\"left\" | [[Свенюнга (комуна)|Свенюнга]] || align=\"left\" | [[Вестра-Йоталанд (лен)|Вестра Йоталанд]] || [[Файл:Svenljunga Municipality in Västra Götaland County.png|46px]] || [[Файл:Svenljunga vapen.svg|45px]] || {{nts|10313}} || {{nts|992.75}} || {{nts|11.14}",
+    "Distance": 565
+  },
+  {
+    "Predicate": "country",
+    "Object": "Заполярненське міське поселення",
+    "Subject": "Росія",
+    "ArticleId": 1542443,
+    "ObjectPosition": {
+      "Anchor": "Заполярненське міське поселення",
+      "Start": 1505,
+      "End": 1540
+    },
+    "SubjectPosition": {
+      "Anchor": "Росія",
+      "Start": 1137,
+      "End": 1146
+    },
+    "Start": 998,
+    "End": 1540,
+    "Text": "''Пе́чензький райо́н''' ({{lang-ru|Печенгский район}})&nbsp;— [[муніципальний район]] у складі [[мурманська область|Мурманської області]], [[Росія]]. Адміністративний центр&nbsp;— смт [[нікель (смт)|Нікель]].\n\n== Адміністративний поділ ==\nРайон адміністративно поділяється на 3 [[міське поселення Росії|міських]] та 1 [[сільське поселення Росії|сільське]] поселення:\n{| align=\"center\" class=\"standard\"\n|+\n! |Поселення\n! |Площа,<br/>км²\n! |Населення,<br/>осіб\n! |Рік\n! |Центр\n! |Населені<br/>пункти\n|-----\n| [[Заполярненське міське поселення]]",
+    "Distance": 542
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Даллас (округ, Техас)",
+    "Subject": "Елліс (округ, Техас)",
+    "ArticleId": 1585575,
+    "ObjectPosition": {
+      "Anchor": "Даллас",
+      "Start": 6818,
+      "End": 6850
+    },
+    "SubjectPosition": {
+      "Anchor": "Елліс",
+      "Start": 6923,
+      "End": 6953
+    },
+    "Start": 6817,
+    "End": 6953,
+    "Text": "[[Даллас (округ, Техас)|Даллас]]\n* [[Дельта (округ, Техас)|Дельта]]\n* [[Дентон (округ, Техас)|Дентон]]\n* [[Елліс (округ, Техас)|Елліс]]",
+    "Distance": 136
+  },
+  {
+    "Predicate": "country",
+    "Object": "Кралупи-на-Влтаві",
+    "Subject": "Чехія",
+    "ArticleId": 1622300,
+    "ObjectPosition": {
+      "Anchor": "Кралупи-на-Влтаві",
+      "Start": 3064,
+      "End": 3085
+    },
+    "SubjectPosition": {
+      "Anchor": "Чехія",
+      "Start": 3087,
+      "End": 3096
+    },
+    "Start": 3046,
+    "End": 3096,
+    "Text": "{{Прапор|Чехія}} [[Кралупи-на-Влтаві]], [[Чехія]]",
+    "Distance": 50
+  },
+  {
+    "Predicate": "country",
+    "Object": "Лазарівська сільська рада (Монастириський район)",
+    "Subject": "Україна",
+    "ArticleId": 1671967,
+    "ObjectPosition": {
+      "Anchor": "Лазарівська сільська рада",
+      "Start": 305,
+      "End": 383
+    },
+    "SubjectPosition": {
+      "Anchor": "Україні",
+      "Start": 145,
+      "End": 164
+    },
+    "Start": 15,
+    "End": 441,
+    "Text": "''Лазарівська сільська рада'''&nbsp;— [[Адміністративно-територіальна одиниця в Україні|адміністративно-територіальна одиниця]] в [[Україна|Україні]].\n\n* [[Лазарівська сільська рада (Брусилівський район)|Лазарівська сільська рада]]&nbsp;— [[Житомирська область]], [[Брусилівський район]]\n* [[Лазарівська сільська рада (Монастириський район)|Лазарівська сільська рада]]&nbsp;— [[Тернопільська область]], [[Монастириський район]",
+    "Distance": 426
+  },
+  {
+    "Predicate": "country",
+    "Object": "Фаганья",
+    "Subject": "Італія",
+    "ArticleId": 1676875,
+    "ObjectPosition": {
+      "Anchor": "Фаганья",
+      "Start": 90,
+      "End": 101
+    },
+    "SubjectPosition": {
+      "Anchor": "Італія",
+      "Start": 114,
+      "End": 124
+    },
+    "Start": 0,
+    "End": 211,
+    "Text": "'''Ламберто Заньєр''' ({{lang-it|Lamberto Zannier}}; {{н}} {{Дата народження|15|6|1954}}, [[Фаганья]], [[Удіне]], [[Італія]])&nbsp;— італійський дипломат, [[Генеральний секретар]] [[ОБСЄ]] з [[1 липня]] [[2011]]",
+    "Distance": 211
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Туве",
+    "Subject": "Уверхангай",
+    "ArticleId": 1683058,
+    "ObjectPosition": {
+      "Anchor": "Туве",
+      "Start": 2119,
+      "End": 2127
+    },
+    "SubjectPosition": {
+      "Anchor": "Уверхангай",
+      "Start": 2156,
+      "End": 2170
+    },
+    "Start": 2105,
+    "End": 2224,
+    "Text": "Також межує з [[Туве]], [[Селенге|Селенгинським]], [[Уверхангай]]ським, [[Архангай]]ським та [[Хувсгел]]ьським аймаками",
+    "Distance": 119
+  },
+  {
+    "Predicate": "located in the administrative territorial entity",
+    "Object": "Кавая",
+    "Subject": "Кавая (округ)",
+    "ArticleId": 1702292,
+    "ObjectPosition": {
+      "Anchor": "Кавая",
+      "Start": 3162,
+      "End": 3171
+    },
+    "SubjectPosition": {
+      "Anchor": "Кавая",
+      "Start": 3137,
+      "End": 3160
+    },
+    "Start": 3137,
+    "End": 3327,
+    "Text": "[[Кавая (округ)|Кавая]]||[[Кавая]]||82 921||414||[[Golem, Kavajë|Golem]], [[Gosë]], [[Helmës]], [[Kavajë]], [[Kryevidh]], [[Lekaj]], [[Luz i Vogël]], [[Rrogozhinë]], [[Sinaballaj]], [[Synej]",
+    "Distance": 190
+  },
+  {
+    "Predicate": "located in the administrative territorial entity",
+    "Object": "Гардена (Каліфорнія)",
+    "Subject": "Лос-Анджелес (округ, Каліфорнія)",
+    "ArticleId": 1768951,
+    "ObjectPosition": {
+      "Anchor": "Гарденою",
+      "Start": 2333,
+      "End": 2366
+    },
+    "SubjectPosition": {
+      "Anchor": "Лос-Анджелес",
+      "Start": 2230,
+      "End": 2279
+    },
+    "Start": 2152,
+    "End": 2504,
+    "Text": "''Інґлвуд''' ({{lang-en|Inglewood}})&nbsp;— місто на південному заході округу [[Лос-Анджелес (округ, Каліфорнія)|Лос-Анджелес]], штат [[Каліфорнія]].\n\nПримітно, що Інґлвуд (поряд з [[Гардена (Каліфорнія)|Гарденою]], [[Белл-Гарденс]], [[Коммерс (Каліфорнія)|Коммерсом]] та [[Хавайан-Гарденс]]ом) є одним з п'яти міст округу, в якому дозволені [[казино]]",
+    "Distance": 352
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Ганінге (комуна)",
+    "Subject": "Тиреше (комуна)",
+    "ArticleId": 1779402,
+    "ObjectPosition": {
+      "Anchor": "Ганінге",
+      "Start": 2335,
+      "End": 2363
+    },
+    "SubjectPosition": {
+      "Anchor": "Тиреше",
+      "Start": 2365,
+      "End": 2391
+    },
+    "Start": 2195,
+    "End": 2447,
+    "Text": "асейн річки Тюресон охоплює повністтю або частково території шости комун: [[Стокгольм (комуна)|Стокгольм]], [[Гуддінге (комуна)|Гуддінге]], [[Ганінге (комуна)|Ганінге]], [[Тиреше (комуна)|Тиреше]], [[Нака (комуна)|Нака]], [[Ботчирка (комуна)|Ботчирка]]",
+    "Distance": 252
+  },
+  {
+    "Predicate": "located in the administrative territorial entity",
+    "Object": "Фок (округ, Південна Дакота)",
+    "Subject": "Південна Дакота",
+    "ArticleId": 1873265,
+    "ObjectPosition": {
+      "Anchor": "Фолк",
+      "Start": 1549,
+      "End": 1586
+    },
+    "SubjectPosition": {
+      "Anchor": "Південна Дакота",
+      "Start": 1634,
+      "End": 1653
+    },
+    "Start": 1548,
+    "End": 1663,
+    "Text": "[[Фок (округ, Південна Дакота)|Фолк]] — адміністративно-територіальний округ в штаті [[Південна Дакота]] ([[США]])",
+    "Distance": 115
+  },
+  {
+    "Predicate": "country",
+    "Object": "Йиесуу (Торі)",
+    "Subject": "Естонія",
+    "ArticleId": 2093385,
+    "ObjectPosition": {
+      "Anchor": "Йиесуу",
+      "Start": 2660,
+      "End": 2684
+    },
+    "SubjectPosition": {
+      "Anchor": "Естонії",
+      "Start": 2343,
+      "End": 2362
+    },
+    "Start": 2283,
+    "End": 2685,
+    "Text": "''Рі́йза''' ({{lang-et|Riisa k&uuml;la}})&nbsp;— [[село]] в [[Естонія|Естонії]], у волості [[Торі (волость)|Торі]] повіту [[Пярнумаа]].\n\n== Населення ==\nЧисельність населення на [[31 грудня]] [[2011]] року становила 26 осіб<ref name=\"lp1\" />.\n\n== Географічне положення ==\nЧерез село проходить автошлях {{Автошлях Естонії|3|151}} ([[Кипу (Тистамаа)|Кипу]]&nbsp;— Тирамаа&nbsp;— [[Йиесуу (Торі)|Йиесуу]])",
+    "Distance": 402
+  },
+  {
+    "Predicate": "country of citizenship",
+    "Object": "Магнус II Генріксон",
+    "Subject": "Швеція",
+    "ArticleId": 2095574,
+    "ObjectPosition": {
+      "Anchor": "Магнус Хенріксен",
+      "Start": 6214,
+      "End": 6254
+    },
+    "SubjectPosition": {
+      "Anchor": "Швеція",
+      "Start": 6157,
+      "End": 6167
+    },
+    "Start": 6156,
+    "End": 6265,
+    "Text": "[[Швеція]]&nbsp;— король [[Ерік IX Святий]] (1156—1160); [[Магнус II Генріксон|Магнус Хенріксен]] (1160—1161",
+    "Distance": 109
+  },
+  {
+    "Predicate": "student of",
+    "Object": "Мазо ді Банко",
+    "Subject": "Джотто ді Бондоне",
+    "ArticleId": 2149274,
+    "ObjectPosition": {
+      "Anchor": "Мазо ді Банко",
+      "Start": 696,
+      "End": 713
+    },
+    "SubjectPosition": {
+      "Anchor": "Джотто",
+      "Start": 749,
+      "End": 777
+    },
+    "Start": 623,
+    "End": 854,
+    "Text": "Ймовірно, що він проходив навчання у майстерні флорентійського живописця [[Мазо ді Банко]], одного з найбільших послідовників [[Джотто ді Бондоне|Джотто]], з творчістю якого Джусто був добре знайомий, про свідчить аналіз його робіт",
+    "Distance": 231
+  },
+  {
+    "Predicate": "spouse",
+    "Object": "Елі Макгроу",
+    "Subject": "Стів Макквін",
+    "ArticleId": 1791086,
+    "ObjectPosition": {
+      "Anchor": "Елі Макгроу",
+      "Start": 1521,
+      "End": 1536
+    },
+    "SubjectPosition": {
+      "Anchor": "Стів Макквін",
+      "Start": 1484,
+      "End": 1500
+    },
+    "Start": 1483,
+    "End": 1555,
+    "Text": "[[Стів Макквін]]&nbsp;— Док МакКой\n* [[Елі Макгроу]]&nbsp;— Керол МакКо",
+    "Distance": 72
+  },
+  {
+    "Predicate": "spouse",
+    "Object": "Сем Мендес",
+    "Subject": "Кейт Вінслет",
+    "ArticleId": 1082795,
+    "ObjectPosition": {
+      "Anchor": "Сем Мендес",
+      "Start": 5628,
+      "End": 5642
+    },
+    "SubjectPosition": {
+      "Anchor": "Кейт Вінслет",
+      "Start": 5667,
+      "End": 5683
+    },
+    "Start": 5627,
+    "End": 5688,
+    "Text": "[[Сем Мендес]] (нар. 1965) — режисер\n* [[Кейт Вінслет]] (нар",
+    "Distance": 61
+  },
+  {
+    "Predicate": "located in the administrative territorial entity",
+    "Object": "Молетай",
+    "Subject": "Молетський район",
+    "ArticleId": 2161795,
+    "ObjectPosition": {
+      "Anchor": "Молетай",
+      "Start": 2323,
+      "End": 2334
+    },
+    "SubjectPosition": {
+      "Anchor": "Молетський район",
+      "Start": 2280,
+      "End": 2300
+    },
+    "Start": 2278,
+    "End": 2334,
+    "Text": "| [[Молетський район]]\n | Molėtų rajonas \n | [[Молетай]]",
+    "Distance": 56
+  },
+  {
+    "Predicate": "father",
+    "Object": "Ашшур-убалліт I",
+    "Subject": "Еріба-Адад I",
+    "ArticleId": 2031286,
+    "ObjectPosition": {
+      "Anchor": "Ашшур-убалліт I",
+      "Start": 196,
+      "End": 215
+    },
+    "SubjectPosition": {
+      "Anchor": "Еріба-Адад I",
+      "Start": 176,
+      "End": 192
+    },
+    "Start": 150,
+    "End": 215,
+    "Text": "царі [[Ассирія|Ассирії]] [[Еріба-Адад I]] та [[Ашшур-убалліт I]]",
+    "Distance": 65
+  },
+  {
+    "Predicate": "brother",
+    "Object": "Суппілуліума II",
+    "Subject": "Арнуванда III",
+    "ArticleId": 2034330,
+    "ObjectPosition": {
+      "Anchor": "Суппілуліума II",
+      "Start": 456,
+      "End": 475
+    },
+    "SubjectPosition": {
+      "Anchor": "Арнуванда III",
+      "Start": 435,
+      "End": 452
+    },
+    "Start": 419,
+    "End": 475,
+    "Text": "царі [[Хатті]] [[Арнуванда III]] та [[Суппілуліума II]]",
+    "Distance": 56
+  },
+  {
+    "Predicate": "spouse",
+    "Object": "Стів Макквін",
+    "Subject": "Елі Макгроу",
+    "ArticleId": 1791086,
+    "ObjectPosition": {
+      "Anchor": "Стів Макквін",
+      "Start": 1484,
+      "End": 1500
+    },
+    "SubjectPosition": {
+      "Anchor": "Елі Макгроу",
+      "Start": 1521,
+      "End": 1536
+    },
+    "Start": 1483,
+    "End": 1555,
+    "Text": "[[Стів Макквін]]&nbsp;— Док МакКой\n* [[Елі Макгроу]]&nbsp;— Керол МакКо",
+    "Distance": 72
+  },
+  {
+    "Predicate": "country of citizenship",
+    "Object": "Імператор Нідзьо",
+    "Subject": "Японія",
+    "ArticleId": 2095574,
+    "ObjectPosition": {
+      "Anchor": "Імператор Нідзьо",
+      "Start": 3825,
+      "End": 3845
+    },
+    "SubjectPosition": {
+      "Anchor": "Японія",
+      "Start": 3807,
+      "End": 3817
+    },
+    "Start": 3806,
+    "End": 3856,
+    "Text": "[[Японія]]&nbsp;— [[Імператор Нідзьо]] (1158—1165",
+    "Distance": 50
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Терні",
+    "Subject": "Стронконе",
+    "ArticleId": 427051,
+    "ObjectPosition": {
+      "Anchor": "Терні",
+      "Start": 2297,
+      "End": 2306
+    },
+    "SubjectPosition": {
+      "Anchor": "Стронконе",
+      "Start": 2281,
+      "End": 2294
+    },
+    "Start": 2280,
+    "End": 2306,
+    "Text": "[[Стронконе]]\n* [[Терні]]",
+    "Distance": 26
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Вітбі (Онтаріо)",
+    "Subject": "Скугог",
+    "ArticleId": 1563053,
+    "ObjectPosition": {
+      "Anchor": "Вітбі",
+      "Start": 1851,
+      "End": 1876
+    },
+    "SubjectPosition": {
+      "Anchor": "Скугог",
+      "Start": 1823,
+      "End": 1833
+    },
+    "Start": 1822,
+    "End": 1876,
+    "Text": "[[Скугог]]\n* [[Уксбридж]]\n* [[Вітбі (Онтаріо)|Вітбі]]",
+    "Distance": 54
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Більбао",
+    "Subject": "Ерандіо",
+    "ArticleId": 1834872,
+    "ObjectPosition": {
+      "Anchor": "Більбао",
+      "Start": 463,
+      "End": 474
+    },
+    "SubjectPosition": {
+      "Anchor": "Ерандіо",
+      "Start": 407,
+      "End": 418
+    },
+    "Start": 355,
+    "End": 510,
+    "Text": "Telmo Zarraonaindía Montoya; [[20 січня]] [[1921]], [[Ерандіо]], [[Біскайя]]&nbsp;— [[23 лютого]] [[2006]], [[Більбао]]) більш відомий як Тельмо Сарра (ісп",
+    "Distance": 155
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Аоморі",
+    "Subject": "Куроїсі",
+    "ArticleId": 6021,
+    "ObjectPosition": {
+      "Anchor": "Аоморі",
+      "Start": 8673,
+      "End": 8683
+    },
+    "SubjectPosition": {
+      "Anchor": "Куроїсі",
+      "Start": 8706,
+      "End": 8717
+    },
+    "Start": 8669,
+    "End": 8717,
+    "Text": "'''[[Аоморі]]'''\n* [[Ґосьоґавара]]\n*[[Куроїсі]]",
+    "Distance": 48
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Аоморі",
+    "Subject": "Ґосьоґавара",
+    "ArticleId": 6021,
+    "ObjectPosition": {
+      "Anchor": "Аоморі",
+      "Start": 8673,
+      "End": 8683
+    },
+    "SubjectPosition": {
+      "Anchor": "Ґосьоґавара",
+      "Start": 8689,
+      "End": 8704
+    },
+    "Start": 8669,
+    "End": 8704,
+    "Text": "'''[[Аоморі]]'''\n* [[Ґосьоґавара]]",
+    "Distance": 35
+  },
+  {
+    "Predicate": "brother",
+    "Object": "Сима Ю",
+    "Subject": "Сима Шао",
+    "ArticleId": 1600367,
+    "ObjectPosition": {
+      "Anchor": "Сима Ю",
+      "Start": 186,
+      "End": 196
+    },
+    "SubjectPosition": {
+      "Anchor": "Сима Шао",
+      "Start": 139,
+      "End": 151
+    },
+    "Start": 138,
+    "End": 196,
+    "Text": "[[Сима Шао]]\n* [[Сима Чі]]\n* [[Сима Децзун]]\n* [[Сима Ю]]",
+    "Distance": 58
+  },
+  {
+    "Predicate": "father",
+    "Object": "Гелон II",
+    "Subject": "Гієрон II",
+    "ArticleId": 701870,
+    "ObjectPosition": {
+      "Anchor": "Гелон II",
+      "Start": 2481,
+      "End": 2493
+    },
+    "SubjectPosition": {
+      "Anchor": "Гієрон II",
+      "Start": 2421,
+      "End": 2434
+    },
+    "Start": 2420,
+    "End": 2505,
+    "Text": "[[Гієрон II]] ([[275 до н. е.]]&nbsp;— [[215 до н. е.]]) та [[Гелон II]] ([[240 до н",
+    "Distance": 85
+  },
+  {
+    "Predicate": "father",
+    "Object": "Тінібек",
+    "Subject": "Узбек-хан",
+    "ArticleId": 4121,
+    "ObjectPosition": {
+      "Anchor": "Тінібек",
+      "Start": 2404,
+      "End": 2415
+    },
+    "SubjectPosition": {
+      "Anchor": "Узбека",
+      "Start": 2355,
+      "End": 2375
+    },
+    "Start": 2336,
+    "End": 2415,
+    "Text": "Після смерті хана [[Узбек-хан|Узбека]] Золоту Орду очолив його син [[Тінібек]]",
+    "Distance": 79
+  },
+  {
+    "Predicate": "father",
+    "Object": "Алькет I",
+    "Subject": "Аероп I",
+    "ArticleId": 605253,
+    "ObjectPosition": {
+      "Anchor": "Алькет I",
+      "Start": 617,
+      "End": 629
+    },
+    "SubjectPosition": {
+      "Anchor": "Аероп I",
+      "Start": 570,
+      "End": 581
+    },
+    "Start": 569,
+    "End": 661,
+    "Text": "[[Аероп I]] Ἀέροπος Αʹ 602–576 до н.&nbsp;е.\n* [[Алькет I]] Ἀλκέτας Αʹ 576–547 до н.&nbsp;е",
+    "Distance": 92
+  },
+  {
+    "Predicate": "father",
+    "Object": "Фарамонд",
+    "Subject": "Маркомир",
+    "ArticleId": 123352,
+    "ObjectPosition": {
+      "Anchor": "Фарамонд",
+      "Start": 77,
+      "End": 89
+    },
+    "SubjectPosition": {
+      "Anchor": "Маркомир",
+      "Start": 42,
+      "End": 54
+    },
+    "Start": 41,
+    "End": 114,
+    "Text": "[[Маркомир]] (міфічний персонаж)\n* [[Фарамонд]] (близько [[420]]–[[426]]",
+    "Distance": 73
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Лінніх",
+    "Subject": "Гайленкірхен",
+    "ArticleId": 1786346,
+    "ObjectPosition": {
+      "Anchor": "Лінніх",
+      "Start": 1693,
+      "End": 1703
+    },
+    "SubjectPosition": {
+      "Anchor": "Гайленкірхен",
+      "Start": 1674,
+      "End": 1690
+    },
+    "Start": 1673,
+    "End": 1703,
+    "Text": "[[Гайленкірхен]]\n* [[Лінніх]]",
+    "Distance": 30
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Окснард",
+    "Subject": "Вентура",
+    "ArticleId": 51176,
+    "ObjectPosition": {
+      "Anchor": "Окснард",
+      "Start": 1563,
+      "End": 1574
+    },
+    "SubjectPosition": {
+      "Anchor": "Вентура",
+      "Start": 1582,
+      "End": 1593
+    },
+    "Start": 1559,
+    "End": 1615,
+    "Text": "13||[[Окснард]]&nbsp;— [[Вентура]]||753,2||1 590||Вентур",
+    "Distance": 56
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Логроньйо",
+    "Subject": "Агонсільйо",
+    "ArticleId": 1987907,
+    "ObjectPosition": {
+      "Anchor": "Логроньйо",
+      "Start": 35864,
+      "End": 35877
+    },
+    "SubjectPosition": {
+      "Anchor": "Агонсільйо",
+      "Start": 35848,
+      "End": 35862
+    },
+    "Start": 35826,
+    "End": 35877,
+    "Text": "Музей Вюрт Ла-Ріоха, [[Агонсільйо]] ([[Логроньйо]]",
+    "Distance": 51
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Мерида (Іспанія)",
+    "Subject": "Бадахос",
+    "ArticleId": 2078100,
+    "ObjectPosition": {
+      "Anchor": "Мерида",
+      "Start": 391,
+      "End": 418
+    },
+    "SubjectPosition": {
+      "Anchor": "Бадахос",
+      "Start": 358,
+      "End": 369
+    },
+    "Start": 326,
+    "End": 418,
+    "Text": "країна            = [[Іспанія]] [[Бадахос]]\n|місто             = [[Мерида (Іспанія)|Мерида]]",
+    "Distance": 92
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Парма",
+    "Subject": "Монтек'яруголо",
+    "ArticleId": 461502,
+    "ObjectPosition": {
+      "Anchor": "Парма",
+      "Start": 2266,
+      "End": 2275
+    },
+    "SubjectPosition": {
+      "Anchor": "Монтек'яруголо",
+      "Start": 2245,
+      "End": 2263
+    },
+    "Start": 2244,
+    "End": 2275,
+    "Text": "[[Монтек'яруголо]]\n* [[Парма]]",
+    "Distance": 31
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Бадахос",
+    "Subject": "Мерида (Іспанія)",
+    "ArticleId": 2078100,
+    "ObjectPosition": {
+      "Anchor": "Бадахос",
+      "Start": 358,
+      "End": 369
+    },
+    "SubjectPosition": {
+      "Anchor": "Мерида",
+      "Start": 391,
+      "End": 418
+    },
+    "Start": 326,
+    "End": 418,
+    "Text": "країна            = [[Іспанія]] [[Бадахос]]\n|місто             = [[Мерида (Іспанія)|Мерида]]",
+    "Distance": 92
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Парма",
+    "Subject": "Гаттатіко",
+    "ArticleId": 461502,
+    "ObjectPosition": {
+      "Anchor": "Парма",
+      "Start": 2266,
+      "End": 2275
+    },
+    "SubjectPosition": {
+      "Anchor": "Гаттатіко",
+      "Start": 2206,
+      "End": 2219
+    },
+    "Start": 2205,
+    "End": 2275,
+    "Text": "[[Гаттатіко]]\n* [[Монтеккьо-Емілія]]\n* [[Монтек'яруголо]]\n* [[Парма]]",
+    "Distance": 70
+  },
+  {
+    "Predicate": "country",
+    "Object": "Тринідад (Куба)",
+    "Subject": "Куба",
+    "ArticleId": 1295285,
+    "ObjectPosition": {
+      "Anchor": "Тринідад (Куба)",
+      "Start": 128,
+      "End": 147
+    },
+    "SubjectPosition": {
+      "Anchor": "Кубі",
+      "Start": 164,
+      "End": 177
+    },
+    "Start": 127,
+    "End": 177,
+    "Text": "[[Тринідад (Куба)]]&nbsp;— місто на [[Куба|Кубі]]",
+    "Distance": 50
+  },
+  {
+    "Predicate": "sister city",
+    "Object": "Масеру",
+    "Subject": "Кобленц",
+    "ArticleId": 203937,
+    "ObjectPosition": {
+      "Anchor": "Масеру",
+      "Start": 15691,
+      "End": 15701
+    },
+    "SubjectPosition": {
+      "Anchor": "Кобленц",
+      "Start": 15622,
+      "End": 15633
+    },
+    "Start": 15603,
+    "End": 15733,
+    "Text": "{{Прапорець|DEU}} [[Кобленц]] ({{lang-de|Koblenz}}), [[Німеччина]]\n* {{Прапорець|LSO}} [[Масеру]] ({{lang-en|Maseru}}), [[Лесото]",
+    "Distance": 130
+  },
+  {
+    "Predicate": "sister city",
+    "Object": "Кутаїсі",
+    "Subject": "Решт",
+    "ArticleId": 3763,
+    "ObjectPosition": {
+      "Anchor": "Кутаїсі",
+      "Start": 42951,
+      "End": 42962
+    },
+    "SubjectPosition": {
+      "Anchor": "Решт",
+      "Start": 43006,
+      "End": 43014
+    },
+    "Start": 42935,
+    "End": 43014,
+    "Text": "{{GEO}}&nbsp;— [[Кутаїсі]]\n* {{EGY}}&nbsp;— [[Каїр]]\n* {{IRN}}&nbsp;— [[Решт]]",
+    "Distance": 79
+  },
+  {
+    "Predicate": "located in the administrative territorial entity",
+    "Object": "Кембуті",
+    "Subject": "Округ Камікава",
+    "ArticleId": 106120,
+    "ObjectPosition": {
+      "Anchor": "Кембуті",
+      "Start": 10440,
+      "End": 10451
+    },
+    "SubjectPosition": {
+      "Anchor": "Округ Камікава",
+      "Start": 10086,
+      "End": 10104
+    },
+    "Start": 10083,
+    "End": 10485,
+    "Text": "== [[Округ Камікава]] ===\n* [[Асахікава]]\n* [[Найоро]]\n* [[Сібецу (Камікава)|Сібецу]]\n* [[Фурано (Хоккайдо)|Фурано]]\n* [[Повіт Камікава (Ісікарі)]]: [[Аїбецу]] - [[Біей]] - [[Камікава (Хоккайдо)|Камікава]] - [[Піппу]] - [[Такасу (Хоккайдо)|Такасу]] - [[Тома (Хоккайдо)|Тома]] - [[Хіґасікава]] - [[Хіґасі-Каґура]]\n* [[Повіт Камікава (Тесіо)]]: [[Вассаму]] - [[Кембуті]] - [[Сімокава (Хоккайдо)|Сімокава]",
+    "Distance": 402
+  },
+  {
+    "Predicate": "located in the administrative territorial entity",
+    "Object": "Отоїнеппу",
+    "Subject": "Округ Камікава",
+    "ArticleId": 106120,
+    "ObjectPosition": {
+      "Anchor": "Отоїнеппу",
+      "Start": 10567,
+      "End": 10580
+    },
+    "SubjectPosition": {
+      "Anchor": "Округ Камікава",
+      "Start": 10086,
+      "End": 10104
+    },
+    "Start": 10083,
+    "End": 10581,
+    "Text": "== [[Округ Камікава]] ===\n* [[Асахікава]]\n* [[Найоро]]\n* [[Сібецу (Камікава)|Сібецу]]\n* [[Фурано (Хоккайдо)|Фурано]]\n* [[Повіт Камікава (Ісікарі)]]: [[Аїбецу]] - [[Біей]] - [[Камікава (Хоккайдо)|Камікава]] - [[Піппу]] - [[Такасу (Хоккайдо)|Такасу]] - [[Тома (Хоккайдо)|Тома]] - [[Хіґасікава]] - [[Хіґасі-Каґура]]\n* [[Повіт Камікава (Тесіо)]]: [[Вассаму]] - [[Кембуті]] - [[Сімокава (Хоккайдо)|Сімокава]]\n* [[Повіт Накаґава (Тесіо)]]: [[Біфука]] - [[Накаґава (Хоккайдо)|Накаґава]] - ''[[Отоїнеппу]]'",
+    "Distance": 498
+  },
+  {
+    "Predicate": "place of death",
+    "Object": "Серафімов Сергій Савич",
+    "Subject": "Санкт-Петербург",
+    "ArticleId": 264203,
+    "ObjectPosition": {
+      "Anchor": "Сергія Серафімова",
+      "Start": 4978,
+      "End": 5022
+    },
+    "SubjectPosition": {
+      "Anchor": "ленінградських",
+      "Start": 4915,
+      "End": 4949
+    },
+    "Start": 4852,
+    "End": 5111,
+    "Text": "Першу [[премія|премію]] отримала робота ''«Непроханий гість»'' [[Санкт-Петербург|ленінградських]] [[архітектор|архітекторів]] [[Серафімов Сергій Савич|Сергія Серафімова]], [[Кравець Самуїл Миронович|Самуїла Кравця]] і [[Фельгер Марк Давидович|Марка Фельгера]]",
+    "Distance": 259
+  },
+  {
+    "Predicate": "contains administrative territorial entity",
+    "Object": "Вайоц-Дзор",
+    "Subject": "Кармрашен (Вайоц-Дзор)",
+    "ArticleId": 769640,
+    "ObjectPosition": {
+      "Anchor": "Вайоц-Дзор",
+      "Start": 2483,
+      "End": 2497
+    },
+    "SubjectPosition": {
+      "Anchor": "Кармрашен",
+      "Start": 2773,
+      "End": 2809
+    },
+    "Start": 2426,
+    "End": 2888,
+    "Text": "''Гергер''' ({{lang-hy|Հերհեր}})&nbsp;— [[село]] в марзі [[Вайоц-Дзор]], на півдні [[Вірменія|Вірменії]]. Село розташоване за 15 км на північний схід від міста [[Вайк]] на однойменній річці Гергер, яка є притокою річки [[Арпа]]. На південь від села проходить траса [[Єреван]]&nbsp;— [[Степанакерт]], а на півночі розташовані ряд сіл, перше з яких [[Кармрашен (Вайоц-Дзор)|Кармрашен]], які тягнуться до траси [[Єхегнадзор]]&nbsp;— [[Мартуні (Гегаркунік)|Мартуні]]",
+    "Distance": 462
+  },
+  {
+    "Predicate": "contains administrative territorial entity",
+    "Object": "Тарн і Гаронна",
+    "Subject": "Мозак (Тарн і Гаронна)",
+    "ArticleId": 785869,
+    "ObjectPosition": {
+      "Anchor": "Тарн і Гаронна",
+      "Start": 441,
+      "End": 459
+    },
+    "SubjectPosition": {
+      "Anchor": "Мозак",
+      "Start": 311,
+      "End": 343
+    },
+    "Start": 310,
+    "End": 458,
+    "Text": "[[Мозак (Тарн і Гаронна)|Мозак]] ({{lang-fr|Meauzac}})&nbsp;— муніципалітет у Франції, у регіоні [[Південь-Піренеї]], департамент [[Тарн і Гаронна]",
+    "Distance": 148
+  },
+  {
+    "Predicate": "country",
+    "Object": "Кабароре (комуна)",
+    "Subject": "Бурунді",
+    "ArticleId": 1466954,
+    "ObjectPosition": {
+      "Anchor": "Кабароре",
+      "Start": 3640,
+      "End": 3670
+    },
+    "SubjectPosition": {
+      "Anchor": "Бурунді",
+      "Start": 3401,
+      "End": 3412
+    },
+    "Start": 3361,
+    "End": 3670,
+    "Text": "''Кайанза'''&nbsp;— одна з 17 провінцій [[Бурунді]]. Адміністративний центр провінції&nbsp;— місто [[Кайанза (місто)|Кайанза]].\n\n== Комуни ==\nПровінція поділяється на такі комуни:\n* [[Бутаганзва (комуна)|Бутаганзва]]\n* [[Гахомбо (комуна)|Гахомбо]]\n* [[Гатара (комуна)|Гатара]]\n* [[Кабароре (комуна)|Кабароре]]",
+    "Distance": 309
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Дандерид (комуна)",
+    "Subject": "Стокгольм (комуна)",
+    "ArticleId": 1482989,
+    "ObjectPosition": {
+      "Anchor": "Дандерид",
+      "Start": 5931,
+      "End": 5961
+    },
+    "SubjectPosition": {
+      "Anchor": "Стокгольм",
+      "Start": 6487,
+      "End": 6519
+    },
+    "Start": 5892,
+    "End": 6722,
+    "Text": "align=\"left\" | 0162 || align=\"left\" | [[Дандерид (комуна)|Дандерид]] || align=\"left\" | [[Стокгольм (лен)|Стокгольм]] || [[Файл:Danderyd Municipality in Stockholm County.png|46px]] || [[Файл:Danderyd vapen.svg|45px]] || {{nts|30851}} || {{nts|26.66}} || {{nts|1163.75}}\n|-\n| align=\"left\" | 0163 || align=\"left\" | [[Соллентуна (комуна)|Соллентуна]] || align=\"left\" | [[Стокгольм (лен)|Стокгольм]] || [[Файл:Sollentuna Municipality in Stockholm County.png|46px]] || [[Файл:Sollentuna vapen.svg|45px]] || {{nts|62097}} || {{nts|56.16}} || {{nts|1172.91}}\n|-\n| align=\"left\" | 0180 || align=\"left\" | [[Стокгольм (комуна)|Стокгольм]] || align=\"left\" | [[Стокгольм (лен)|Стокгольм]] || [[Файл:Stockholm Municipality in Stockholm County.png|46px]] || [[Файл:Stockholm vapen.svg|45px]] || {{nts|810120}} || {{nts|209.12}} || {{nts|4307.84}",
+    "Distance": 830
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Юснарсберг (комуна)",
+    "Subject": "Геллефорс (комуна)",
+    "ArticleId": 1482989,
+    "ObjectPosition": {
+      "Anchor": "Юснарсберг",
+      "Start": 57560,
+      "End": 57594
+    },
+    "SubjectPosition": {
+      "Anchor": "Геллефорс",
+      "Start": 57293,
+      "End": 57325
+    },
+    "Start": 57254,
+    "End": 57789,
+    "Text": "align=\"left\" | 1863 || align=\"left\" | [[Геллефорс (комуна)|Геллефорс]] || align=\"left\" | [[Еребру (лен)|Еребру]] || [[Файл:Hällefors Municipality in Örebro County.png|46px]] || [[Файл:Hällefors vapen.svg|45px]] || {{nts|7361}} || {{nts|1157.23}} || {{nts|7.44}}\n|-\n| align=\"left\" | 1864 || align=\"left\" | [[Юснарсберг (комуна)|Юснарсберг]] || align=\"left\" | [[Еребру (лен)|Еребру]] || [[Файл:Ljusnarsberg Municipality in Örebro County.png|46px]] || [[Файл:Ljusnarsberg vapen.svg|45px]] || {{nts|5129}} || {{nts|634.59}} || {{nts|8.86}",
+    "Distance": 535
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Лессебу (комуна)",
+    "Subject": "Уппвідінге (комуна)",
+    "ArticleId": 1482989,
+    "ObjectPosition": {
+      "Anchor": "Лессебу",
+      "Start": 21003,
+      "End": 21031
+    },
+    "SubjectPosition": {
+      "Anchor": "Уппвідінге",
+      "Start": 20723,
+      "End": 20757
+    },
+    "Start": 20684,
+    "End": 21226,
+    "Text": "align=\"left\" | 0760 || align=\"left\" | [[Уппвідінге (комуна)|Уппвідінге]] || align=\"left\" | [[Крунуберг (лен)|Крунуберг]] || [[Файл:Uppvidinge Municipality in Kronoberg County.png|46px]] || [[Файл:Uppvidinge vapen.svg|45px]] || {{nts|9347}} || {{nts|1232.64}} || {{nts|7.93}}\n|-\n| align=\"left\" | 0761 || align=\"left\" | [[Лессебу (комуна)|Лессебу]] || align=\"left\" | [[Крунуберг (лен)|Крунуберг]] || [[Файл:Lessebo Municipality in Kronoberg County.png|46px]] || [[Файл:Lessebo vapen.svg|45px]] || {{nts|8085}} || {{nts|458.54}} || {{nts|19.49}",
+    "Distance": 542
+  },
+  {
+    "Predicate": "contains administrative territorial entity",
+    "Object": "Вербано-Кузіо-Оссола (провінція)",
+    "Subject": "Формацца",
+    "ArticleId": 1532671,
+    "ObjectPosition": {
+      "Anchor": "провінція Вербано-Кузьо-Оссола",
+      "Start": 2881,
+      "End": 2948
+    },
+    "SubjectPosition": {
+      "Anchor": "Формацца",
+      "Start": 2950,
+      "End": 2962
+    },
+    "Start": 2878,
+    "End": 2991,
+    "Text": "** [[Вербано-Кузіо-Оссола (провінція)|провінція Вербано-Кузьо-Оссола]]: [[Формацца]] ({{lang-it|Formazza}}, вальз",
+    "Distance": 113
+  },
+  {
+    "Predicate": "place of death",
+    "Object": "Корк Август Іванович",
+    "Subject": "Москва",
+    "ArticleId": 1553897,
+    "ObjectPosition": {
+      "Anchor": "Корка А. І.",
+      "Start": 25339,
+      "End": 25375
+    },
+    "SubjectPosition": {
+      "Anchor": "Москві",
+      "Start": 25229,
+      "End": 25246
+    },
+    "Start": 25113,
+    "End": 25441,
+    "Text": "Всі вони, за даними останніх, були засуджені ВКВС СРСР ще в липні 1941 року до вищої міри покарання і розстріляні в [[Москва|Москві]]. Відомості про долю подружжя Клепініной, дружин [[Єгоров Олександр Ілліч|Єгорова О. І.]] та [[Корк Август Іванович|Корка А. І.]], актриси Кароліни (Кароли) Неер-Геншке, а також дружини і дочки А",
+    "Distance": 328
+  },
+  {
+    "Predicate": "country",
+    "Object": "Кучук-Ламбатська бухта",
+    "Subject": "Україна",
+    "ArticleId": 1604548,
+    "ObjectPosition": {
+      "Anchor": "Кучук-Ламбатською бухтою",
+      "Start": 681,
+      "End": 732
+    },
+    "SubjectPosition": {
+      "Anchor": "Україна",
+      "Start": 198,
+      "End": 209
+    },
+    "Start": 149,
+    "End": 823,
+    "Text": "| розташування = [[Автономна Республіка Крим]], [[Україна]]\n  | nearest_city = [[Алушта]]\n  | lat_degrees = 44\n  | lat_minutes = 36\n  | lat_seconds = 04\n  | lat_direction = N\n  | long_degrees = 34\n  | long_minutes = 22\n  | long_seconds = 20\n  | long_direction = E\n  | площа = \n  | заснований =  [[1964]]\n  | число_відвідувачів = \n  | рік_відвідувачів = \n  | керуюча_організація =  \n}}\n\n\n'''Кучук-Ламбатський кам'яний хаос''' - унікальний природний об'єкт на [[Південне узбережжя Криму|Південному узбережжі Криму]],розташований над [[Кучук-Ламбатська бухта|Кучук-Ламбатською бухтою]], між курортами [[Утьос]] і [[Малий Маяк]] на північний схід від [[Плака (мис)|мису Плака]]",
+    "Distance": 674
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Сан-Матео (округ, Каліфорнія)",
+    "Subject": "Санта-Клара (округ, Каліфорнія)",
+    "ArticleId": 1753397,
+    "ObjectPosition": {
+      "Anchor": "Сан-Матео",
+      "Start": 2654,
+      "End": 2697
+    },
+    "SubjectPosition": {
+      "Anchor": "Санта-Клара",
+      "Start": 2699,
+      "End": 2746
+    },
+    "Start": 2451,
+    "End": 2794,
+    "Text": "ори '''Санта-Круз''' ({{lang-en|Santa Cruz Mountains}})&nbsp;— частина [[Берегові Хребти|Берегових Хребтів]], гірський хребет у західній Каліфорнії (США), який простягається через [[Округ_(США)|округи]] [[Сан-Матео (округ, Каліфорнія)|Сан-Матео]], [[Санта-Клара (округ, Каліфорнія)|Санта-Клара]] і [[Санта-Крус (округ, Каліфорнія)|Санта-Круз]]",
+    "Distance": 343
+  },
+  {
+    "Predicate": "member of political party",
+    "Object": "Оллі Рен",
+    "Subject": "Фінляндський центр",
+    "ArticleId": 1822168,
+    "ObjectPosition": {
+      "Anchor": "Olli Rehn",
+      "Start": 29980,
+      "End": 30002
+    },
+    "SubjectPosition": {
+      "Anchor": "Фінляндський центр",
+      "Start": 29877,
+      "End": 29899
+    },
+    "Start": 29875,
+    "End": 30002,
+    "Text": "''[[Фінляндський центр]] ({{lang-fi|Suomen Keskusta}})'''\n* [[Аннелі Яаттеенмякі|Anneli Jäätteenmäki]]\n* [[Оллі Рен|Olli Rehn]]",
+    "Distance": 127
+  },
+  {
+    "Predicate": "capital",
+    "Object": "Ракхайн (штат)",
+    "Subject": "Сітуе",
+    "ArticleId": 1869715,
+    "ObjectPosition": {
+      "Anchor": "Ракхайн",
+      "Start": 4594,
+      "End": 4620
+    },
+    "SubjectPosition": {
+      "Anchor": "Сітуе",
+      "Start": 4648,
+      "End": 4657
+    },
+    "Start": 4592,
+    "End": 4664,
+    "Text": "| [[Ракхайн (штат)|Ракхайн]] (Аракан)\n|ရခိုင်ပြည်နယ်\n | [[Сітуе]] (Акьяб",
+    "Distance": 72
+  },
+  {
+    "Predicate": "shares border with",
+    "Object": "Байльнгріс",
+    "Subject": "Альтманнштайн",
+    "ArticleId": 2060474,
+    "ObjectPosition": {
+      "Anchor": "Байльнгріс",
+      "Start": 1648,
+      "End": 1662
+    },
+    "SubjectPosition": {
+      "Anchor": "Альтманнштайн",
+      "Start": 2109,
+      "End": 2126
+    },
+    "Start": 1648,
+    "End": 2166,
+    "Text": "[[Байльнгріс]] ({{Metadata Population DE-BY|09176114}})\n\n'''Об'єднання громад'''\n#[[Айтенсгайм (об'єднання громад)|Айтенсгайм]] (громади Бемфельд та Айтенсгайм)\n#[[Айхштет (об'єднання громад)|Айхштет]] (громади Полленфельд, Шернфельд та Вальтінг)\n#[[Нассенфельс (об'єднання громад)|Нассенфельс]] (громади Адельшлаг, Егвайль та Нассенфельс)\n#[[Пферрінг (об'єднання громад)|Пферрінг]] (громади Міндельштеттен, Обердоллінг та Пферрінг)\n\n'''Торговельні громади'''\n#[[Альтманнштайн]] ({{Metadata Population DE-BY|09176112}}",
+    "Distance": 518
+  },
+  {
+    "Predicate": "educated at",
+    "Object": "Савшинський Самарій Ілліч",
+    "Subject": "Санкт-Петербурзька державна консерваторія імені Миколи Римського-Корсакова",
+    "ArticleId": 1557494,
+    "ObjectPosition": {
+      "Anchor": "С.&nbsp;І.&nbsp;Савшинського",
+      "Start": 1395,
+      "End": 1453
+    },
+    "SubjectPosition": {
+      "Anchor": "Ленінградську консерваторію",
+      "Start": 1268,
+      "End": 1374
+    },
+    "Start": 1259,
+    "End": 1453,
+    "Text": "Закінчив [[Санкт-Петербурзька державна консерваторія імені Миколи Римського-Корсакова|Ленінградську консерваторію]] ([[1951]]) по класу [[Савшинський Самарій Ілліч|С.&nbsp;І.&nbsp;Савшинського]]",
+    "Distance": 194
+  },
+  {
+    "Predicate": "brother",
+    "Object": "Мутігцанбо",
+    "Subject": "Тідесронцан",
+    "ArticleId": 419922,
+    "ObjectPosition": {
+      "Anchor": "Мутігцанбо",
+      "Start": 2937,
+      "End": 2951
+    },
+    "SubjectPosition": {
+      "Anchor": "Тідесронцан",
+      "Start": 2964,
+      "End": 2979
+    },
+    "Start": 2936,
+    "End": 2988,
+    "Text": "[[Мутігцанбо]] (798–804)\n* [[Тідесронцан]] (804–817",
+    "Distance": 52
+  },
+  {
+    "Predicate": "child",
+    "Object": "Суппілуліума I",
+    "Subject": "Мурсілі II",
+    "ArticleId": 2031508,
+    "ObjectPosition": {
+      "Anchor": "Суппілуліума I",
+      "Start": 287,
+      "End": 305
+    },
+    "SubjectPosition": {
+      "Anchor": "Мурсілі II",
+      "Start": 321,
+      "End": 335
+    },
+    "Start": 271,
+    "End": 335,
+    "Text": "царі [[Хатті]] [[Суппілуліума I]], Арнуванда ІІ, [[Мурсілі II]]",
+    "Distance": 64
+  },
+  {
+    "Predicate": "child",
+    "Object": "Еріба-Адад I",
+    "Subject": "Ашшур-убалліт I",
+    "ArticleId": 2031286,
+    "ObjectPosition": {
+      "Anchor": "Еріба-Адад I",
+      "Start": 176,
+      "End": 192
+    },
+    "SubjectPosition": {
+      "Anchor": "Ашшур-убалліт I",
+      "Start": 196,
+      "End": 215
+    },
+    "Start": 150,
+    "End": 215,
+    "Text": "царі [[Ассирія|Ассирії]] [[Еріба-Адад I]] та [[Ашшур-убалліт I]]",
+    "Distance": 65
+  },
+  {
+    "Predicate": "brother",
+    "Object": "Мунецанбо",
+    "Subject": "Тідесронцан",
+    "ArticleId": 419922,
+    "ObjectPosition": {
+      "Anchor": "Мунецанбо",
+      "Start": 2911,
+      "End": 2924
+    },
+    "SubjectPosition": {
+      "Anchor": "Тідесронцан",
+      "Start": 2964,
+      "End": 2979
+    },
+    "Start": 2910,
+    "End": 2988,
+    "Text": "[[Мунецанбо]] (797–798)\n* [[Мутігцанбо]] (798–804)\n* [[Тідесронцан]] (804–817",
+    "Distance": 78
+  },
+  {
+    "Predicate": "brother",
+    "Object": "Мутігцанбо",
+    "Subject": "Мунецанбо",
+    "ArticleId": 419922,
+    "ObjectPosition": {
+      "Anchor": "Мутігцанбо",
+      "Start": 2937,
+      "End": 2951
+    },
+    "SubjectPosition": {
+      "Anchor": "Мунецанбо",
+      "Start": 2911,
+      "End": 2924
+    },
+    "Start": 2910,
+    "End": 2960,
+    "Text": "[[Мунецанбо]] (797–798)\n* [[Мутігцанбо]] (798–804",
+    "Distance": 50
+  },
+  {
+    "Predicate": "brother",
+    "Object": "Тідесронцан",
+    "Subject": "Мунецанбо",
+    "ArticleId": 419922,
+    "ObjectPosition": {
+      "Anchor": "Тідесронцан",
+      "Start": 2964,
+      "End": 2979
+    },
+    "SubjectPosition": {
+      "Anchor": "Мунецанбо",
+      "Start": 2911,
+      "End": 2924
+    },
+    "Start": 2910,
+    "End": 2988,
+    "Text": "[[Мунецанбо]] (797–798)\n* [[Мутігцанбо]] (798–804)\n* [[Тідесронцан]] (804–817",
+    "Distance": 78
+  },
+  {
+    "Predicate": "brother",
+    "Object": "Дарма",
+    "Subject": "Ралпачан",
+    "ArticleId": 419922,
+    "ObjectPosition": {
+      "Anchor": "Дарма",
+      "Start": 3017,
+      "End": 3026
+    },
+    "SubjectPosition": {
+      "Anchor": "Ралпачан",
+      "Start": 2992,
+      "End": 3004
+    },
+    "Start": 2991,
+    "End": 3035,
+    "Text": "[[Ралпачан]] (817–841)\n* [[Дарма]] (841–845",
+    "Distance": 44
+  },
+  {
+    "Predicate": "sister city",
+    "Object": "Бангкок",
+    "Subject": "Лозанна",
+    "ArticleId": 1855071,
+    "ObjectPosition": {
+      "Anchor": "Бангкок",
+      "Start": 11801,
+      "End": 11812
+    },
+    "SubjectPosition": {
+      "Anchor": "Лозанна",
+      "Start": 11731,
+      "End": 11742
+    },
+    "Start": 11712,
+    "End": 11815,
+    "Text": "{{Прапорець|CHE}} [[Лозанна]]: 2,000\n* {{Прапорець|TWN}} [[Тайбей]]\n* {{Прапорець|THA}} [[Бангкок]]:50",
+    "Distance": 103
+  },
+  {
+    "Predicate": "child",
+    "Object": "Маркомир",
+    "Subject": "Фарамонд",
+    "ArticleId": 123352,
+    "ObjectPosition": {
+      "Anchor": "Маркомир",
+      "Start": 42,
+      "End": 54
+    },
+    "SubjectPosition": {
+      "Anchor": "Фарамонд",
+      "Start": 77,
+      "End": 89
+    },
+    "Start": 41,
+    "End": 114,
+    "Text": "[[Маркомир]] (міфічний персонаж)\n* [[Фарамонд]] (близько [[420]]–[[426]]",
+    "Distance": 73
+  },
+  {
+    "Predicate": "child",
+    "Object": "Хаттусілі III",
+    "Subject": "Тудхалія IV",
+    "ArticleId": 2034016,
+    "ObjectPosition": {
+      "Anchor": "Хаттусілі III",
+      "Start": 306,
+      "End": 323
+    },
+    "SubjectPosition": {
+      "Anchor": "Тудхалія IV",
+      "Start": 327,
+      "End": 342
+    },
+    "Start": 290,
+    "End": 342,
+    "Text": "царі [[Хатті]] [[Хаттусілі III]] та [[Тудхалія IV]]",
+    "Distance": 52
+  },
+  {
+    "Predicate": "child",
+    "Object": "Аероп I",
+    "Subject": "Алькет I",
+    "ArticleId": 605253,
+    "ObjectPosition": {
+      "Anchor": "Аероп I",
+      "Start": 570,
+      "End": 581
+    },
+    "SubjectPosition": {
+      "Anchor": "Алькет I",
+      "Start": 617,
+      "End": 629
+    },
+    "Start": 569,
+    "End": 661,
+    "Text": "[[Аероп I]] Ἀέροπος Αʹ 602–576 до н.&nbsp;е.\n* [[Алькет I]] Ἀλκέτας Αʹ 576–547 до н.&nbsp;е",
+    "Distance": 92
+  },
+  {
+    "Predicate": "child",
+    "Object": "Вологез IV",
+    "Subject": "Вологез V",
+    "ArticleId": 1526121,
+    "ObjectPosition": {
+      "Anchor": "Вологез IV",
+      "Start": 8238,
+      "End": 8252
+    },
+    "SubjectPosition": {
+      "Anchor": "Вологез V",
+      "Start": 8290,
+      "End": 8303
+    },
+    "Start": 8237,
+    "End": 8337,
+    "Text": "[[Вологез IV]] [[191]]–[[208]], син Вологеза III.\n* [[Вологез V]] 208—[[223]], брат Артабана IV (V)",
+    "Distance": 100
+  },
+  {
+    "Predicate": "child",
+    "Object": "Фарнак II",
+    "Subject": "Динамія",
+    "ArticleId": 1681479,
+    "ObjectPosition": {
+      "Anchor": "Фарнака II",
+      "Start": 1165,
+      "End": 1189
+    },
+    "SubjectPosition": {
+      "Anchor": "Динамія",
+      "Start": 1064,
+      "End": 1075
+    },
+    "Start": 1063,
+    "End": 1189,
+    "Text": "[[Динамія]], цариця [[Боспорська держава|Боспору]], внучка [[Мітрідат II|Мітрідата Великого]], дочка [[Фарнак II|Фарнака II]]",
+    "Distance": 126
+  },
+  {
+    "Predicate": "child",
+    "Object": "Артабан III",
+    "Subject": "Вардан I",
+    "ArticleId": 1822068,
+    "ObjectPosition": {
+      "Anchor": "Артабана III",
+      "Start": 312,
+      "End": 340
+    },
+    "SubjectPosition": {
+      "Anchor": "Вардан I",
+      "Start": 282,
+      "End": 294
+    },
+    "Start": 261,
+    "End": 340,
+    "Text": "отарз II і його брат [[Вардан I]] були синами царя [[Артабан III|Артабана III]]",
+    "Distance": 79
+  }
+]
